@@ -10,8 +10,8 @@ def is_even(number):
     else:
         return "odd"
 
-for i in range(1,11):
-     print(is_even(i))
+
+
 
 
 
